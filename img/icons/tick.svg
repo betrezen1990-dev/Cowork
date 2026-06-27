@@ -1,0 +1,6 @@
+<svg viewBox="0 0 12.8008 9.41406" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12.800781" height="9.414062" fill="none" customFrame="#000000">
+	<g id="tick">
+		<path id="Line 9" d="M0 0L6.78823 0" stroke="rgb(255,255,255)" stroke-width="2.000000" transform="matrix(0.707107,0.707107,-0.707107,0.707107,0.707031,3.90698)" />
+		<line id="Line 10" x1="0" x2="11.3137074" y1="0" y2="0" stroke="rgb(255,255,255)" stroke-width="2.000000" transform="matrix(0.707107,-0.707107,0.707107,0.707107,4.09375,8.70703)" />
+	</g>
+</svg>
